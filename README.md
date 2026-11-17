@@ -28,7 +28,7 @@ ChopLife connects busy professionals and 9-5 workers to local and exotic restaur
 
 ## Documents
 
-All files are in the `documents/` folder.
+All files are in the `documents/` folder. Readable Markdown versions of the Project Charter and Risk Log are in `documents/markdown/`, so you can read them on GitHub without downloading anything.
 
 | Document | What it covers |
 |---|---|
